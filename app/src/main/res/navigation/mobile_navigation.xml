@@ -25,5 +25,6 @@
 
     <textView
         android:text="Test for github"
+        android:text="Test for github"
         />
 </navigation>
