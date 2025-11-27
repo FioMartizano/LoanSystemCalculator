@@ -12,10 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoanSystemCalculator">
         <activity
-            android:name=".MainActivity"
+            android:name=".SplashActivity"
             android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.LoanSystemCalculator.NoActionBar">
+            android:theme="@style/Theme.LoanSystemCalculator.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

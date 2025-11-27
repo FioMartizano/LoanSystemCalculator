@@ -12,7 +12,13 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+
     </style>
+
+    <style name="Theme.LoanSystemCalculator.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
 
     <style name="Theme.LoanSystemCalculator.NoActionBar">
         <item name="windowActionBar">false</item>
