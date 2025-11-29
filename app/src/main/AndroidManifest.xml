@@ -12,6 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoanSystemCalculator">
         <activity
+            android:name=".AdminHome"
+            android:exported="false"
+            android:label="@string/title_activity_admin_home"
+            android:theme="@style/Theme.LoanSystemCalculator.NoActionBar" />
+        <activity
             android:name=".SplashActivity"
             android:exported="true"
             android:theme="@style/Theme.LoanSystemCalculator.Splash">
