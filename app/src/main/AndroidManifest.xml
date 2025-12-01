@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoanSystemCalculator">
         <activity
+            android:name=".EmergencyLoan"
+            android:exported="false" />
+        <activity
             android:name=".Admin_ApprovedLoan"
             android:exported="false"
             android:label="@string/title_activity_admin_approved_loan"
