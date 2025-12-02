@@ -256,6 +256,7 @@
         android:background="@drawable/rounded_button"
         android:backgroundTint="@color/light_purple"
         android:fontFamily="sans-serif-medium"
+        android:onClick="onClickRegister"
         android:text="Register"
         android:textAllCaps="false"
         android:textColor="@color/white"
