@@ -81,7 +81,7 @@
                     android:id="@+id/arrow"
                     android:layout_width="26dp"
                     android:layout_height="26dp"
-                    android:src="@drawable/loanArrow"
+                    android:src="@drawable/loanarrow"
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentTop="true" />
 
@@ -90,7 +90,7 @@
                     android:id="@+id/mainIcon"
                     android:layout_width="65dp"
                     android:layout_height="65dp"
-                    android:src="@drawable/loanHand"
+                    android:src="@drawable/loanhand"
                     android:layout_alignParentStart="true"
                     android:layout_marginTop="10dp" />
 
@@ -138,7 +138,7 @@
                     android:id="@+id/arrow2"
                     android:layout_width="26dp"
                     android:layout_height="26dp"
-                    android:src="@drawable/loanArrow"
+                    android:src="@drawable/loanarrow"
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentTop="true" />
 
@@ -147,7 +147,7 @@
                     android:id="@+id/mainIcon2"
                     android:layout_width="65dp"
                     android:layout_height="65dp"
-                    android:src="@drawable/loanHand"
+                    android:src="@drawable/loanhand"
                     android:layout_alignParentStart="true"
                     android:layout_marginTop="10dp" />
 
@@ -194,7 +194,7 @@
                     android:id="@+id/arrow3"
                     android:layout_width="26dp"
                     android:layout_height="26dp"
-                    android:src="@drawable/loanArrow"
+                    android:src="@drawable/loanarrow"
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentTop="true" />
 
@@ -203,7 +203,7 @@
                     android:id="@+id/mainIcon3"
                     android:layout_width="65dp"
                     android:layout_height="65dp"
-                    android:src="@drawable/loanBag"
+                    android:src="@drawable/loanbag"
                     android:layout_alignParentStart="true"
                     android:layout_marginTop="10dp" />
 
@@ -250,7 +250,7 @@
                     android:id="@+id/arrow4"
                     android:layout_width="26dp"
                     android:layout_height="26dp"
-                    android:src="@drawable/loanArrow"
+                    android:src="@drawable/loanarrow"
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentTop="true" />
 
@@ -259,7 +259,7 @@
                     android:id="@+id/mainIcon4"
                     android:layout_width="65dp"
                     android:layout_height="65dp"
-                    android:src="@drawable/loanBag"
+                    android:src="@drawable/loanbag"
                     android:layout_alignParentStart="true"
                     android:layout_marginTop="10dp" />
 
