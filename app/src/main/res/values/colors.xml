@@ -16,6 +16,7 @@
     <color name="teal_200">#03DAC5</color>
     <color name="teal_700">#018786</color>
 
-    <!--CARDVIEW ADMIN-->
+    <!--ADMIN buttons (pending)-->
     <color name = "green"> #388E3C</color>
+    <color name = "red">#B80303</color>
 </resources>
